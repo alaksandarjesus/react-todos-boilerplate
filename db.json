@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn react",
+      "completed": true,
+      "target": "2023-03-08 05:42:48",
+      "updatedAt": "2023-03-03 05:45:35",
+      "createdAt": "2023-03-08 05:42:48"
+    },
+    {
+      "id": 2,
+      "title": "Learn Angular",
+      "completed": false,
+      "target": "2023-03-17 05:44:04",
+      "updatedAt": "2023-03-03 05:44:18",
+      "createdAt": "2023-03-03 05:44:06"
+    },
+    {
+      "id": 3,
+      "title": "Learn HTML",
+      "completed": false,
+      "target": "2023-03-03 05:44:20",
+      "updatedAt": "2023-03-03 05:45:24",
+      "createdAt": "2023-03-03 05:44:20"
+    }
+  ]
+}
